@@ -1,0 +1,66 @@
+.imageSlider {
+    height: 600px;
+}
+body {
+    padding-top: 56px;
+    font-family: 'Raleway', sans-serif;
+}
+.about {
+   
+background-color: rgb(228, 228, 228);
+}
+
+
+.brace {
+    border: none;
+    border-top:3px solid rgb(0, 0, 0);
+    max-width: 250px;
+    margin: 25px auto;
+
+}
+
+.gray {
+    color: rgb(139, 134, 134);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid  rgb(228, 228, 228);
+    
+    background-color: rgb(228, 228, 228);
+   
+}
+
+
+.ourteam {
+    
+    
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+   
+    background-color: rgb(255, 255, 255);
+
+}
+
+  .white {
+    color:rgb(161, 158, 158); 
+    
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid  rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}  
+.ourteamcard img:hover {
+    opacity: 0.8;
+}
+
+.gallery {
+    
+    background-color:rgb(230, 228, 228);
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
