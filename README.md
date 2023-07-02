@@ -4,4 +4,4 @@
 
 &#9679; bootstrap
 ### screen
-![](my-course)
+![](my-course.gif)
